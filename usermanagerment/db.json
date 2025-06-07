@@ -1,0 +1,210 @@
+{
+  "users":[
+    {
+      "id": 1,
+      "username": "user1",
+      "password": "password123",
+      "email": "user1@example.com",
+      "fullName": "Nguyen Van A",
+      "createdAt": "2025-06-06T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "username": "user2",
+      "password": "password456",
+      "email": "user2@example.com",
+      "fullName": "Tran Thi B",
+      "createdAt": "2025-06-06T10:05:00Z"
+    },
+    {
+      "id": 3,
+      "username": "user3",
+      "password": "password789",
+      "email": "user3@example.com",
+      "fullName": "Le Minh C",
+      "createdAt": "2025-06-06T10:10:00Z"
+    }
+  ],
+  "jobs": [
+    {
+      "id": 1,
+      "company": "AI Insights Corporation",
+      "location": "New York, NY",
+      "position": "Senior Data Scientist",
+      "salary": 120000,
+      "type": "Full-Time",
+      "postedDaysAgo": 251,
+      "featured": true,
+      "description": "Analyze and interpret complex datasets to drive strategic business decisions and product improvements.",
+      "skills": [
+        "Strong background in statistics",
+        "Experience with Python",
+        "Knowledge of machine learning"
+      ],
+      "applyUrl": "/apply/1",
+      "detailsUrl": "/details/1"
+    },
+    {
+      "id": 2,
+      "company": "CloudTech Solutions",
+      "location": "Seattle, WA",
+      "position": "DevOps Engineer",
+      "salary": 110000,
+      "type": "Full-Time",
+      "postedDaysAgo": 238,
+      "featured": true,
+      "description": "Build and maintain scalable infrastructure and deployment pipelines that enable rapid and reliable software delivery.",
+      "skills": [
+        "Experience with Docker",
+        "Knowledge of CI/CD pipelines",
+        "Cloud platform expertise"
+      ],
+      "applyUrl": "/apply/2",
+      "detailsUrl": "/details/2"
+    },
+    {
+      "id": 3,
+      "company": "FinTech Hub",
+      "location": "San Francisco, CA",
+      "position": "Frontend Developer",
+      "salary": 95000,
+      "type": "Full-Time",
+      "postedDaysAgo": 30,
+      "featured": false,
+      "description": "Design and build engaging UI interfaces for our web applications.",
+      "skills": [
+        "ReactJS",
+        "Tailwind CSS",
+        "REST APIs"
+      ],
+      "applyUrl": "/apply/3",
+      "detailsUrl": "/details/3"
+    },
+    {
+      "id": 4,
+      "company": "MediSoft Inc.",
+      "location": "Boston, MA",
+      "position": "Backend Developer",
+      "salary": 100000,
+      "type": "Full-Time",
+      "postedDaysAgo": 10,
+      "featured": false,
+      "description": "Develop RESTful APIs and manage database operations for our healthcare platform.",
+      "skills": [
+        "Node.js",
+        "MongoDB",
+        "Express"
+      ],
+      "applyUrl": "/apply/4",
+      "detailsUrl": "/details/4"
+    },
+    {
+      "id": 5,
+      "company": "EduTech Global",
+      "location": "Austin, TX",
+      "position": "UI/UX Designer",
+      "salary": 85000,
+      "type": "Part-Time",
+      "postedDaysAgo": 5,
+      "featured": false,
+      "description": "Design modern, intuitive interfaces for web and mobile education platforms.",
+      "skills": [
+        "Figma",
+        "User Research",
+        "Design Systems"
+      ],
+      "applyUrl": "/apply/5",
+      "detailsUrl": "/details/5"
+    },
+    {
+      "id": 6,
+      "company": "CyberShield Ltd.",
+      "location": "Washington, DC",
+      "position": "Cybersecurity Analyst",
+      "salary": 105000,
+      "type": "Full-Time",
+      "postedDaysAgo": 60,
+      "featured": true,
+      "description": "Monitor, detect, and respond to security threats and vulnerabilities.",
+      "skills": [
+        "Threat Analysis",
+        "SIEM Tools",
+        "Incident Response"
+      ],
+      "applyUrl": "/apply/6",
+      "detailsUrl": "/details/6"
+    },
+    {
+      "id": 7,
+      "company": "GreenTech Energy",
+      "location": "Denver, CO",
+      "position": "Data Engineer",
+      "salary": 98000,
+      "type": "Full-Time",
+      "postedDaysAgo": 20,
+      "featured": false,
+      "description": "Build and maintain data pipelines and ETL workflows for energy analytics.",
+      "skills": [
+        "Python",
+        "ETL Tools",
+        "AWS Redshift"
+      ],
+      "applyUrl": "/apply/7",
+      "detailsUrl": "/details/7"
+    },
+    {
+      "id": 8,
+      "company": "HealthCare Analytics",
+      "location": "Chicago, IL",
+      "position": "Business Analyst",
+      "salary": 87000,
+      "type": "Full-Time",
+      "postedDaysAgo": 14,
+      "featured": false,
+      "description": "Gather and analyze requirements to improve healthcare processes and products.",
+      "skills": [
+        "Excel",
+        "SQL",
+        "Requirement Gathering"
+      ],
+      "applyUrl": "/apply/8",
+      "detailsUrl": "/details/8"
+    },
+    {
+      "id": 9,
+      "company": "NextGen Robotics",
+      "location": "San Jose, CA",
+      "position": "Machine Learning Engineer",
+      "salary": 130000,
+      "type": "Full-Time",
+      "postedDaysAgo": 3,
+      "featured": true,
+      "description": "Develop and deploy machine learning models for robotics applications.",
+      "skills": [
+        "TensorFlow",
+        "Computer Vision",
+        "Python"
+      ],
+      "applyUrl": "/apply/9",
+      "detailsUrl": "/details/9"
+    },
+    {
+      "id": 10,
+      "company": "NextGen Robotics",
+      "location": "San Jose, CA",
+      "position": "Machine Learning Engineer",
+      "salary": 130000,
+      "type": "Full-Time",
+      "postedDaysAgo": 3,
+      "featured": true,
+      "description": "Develop and deploy machine learning models for robotics applications.",
+      "skills": [
+        "TensorFlow",
+        "Computer Vision",
+        "Python"
+      ],
+      "applyUrl": "/apply/9",
+      "detailsUrl": "/details/9"
+    }
+  ]
+}
